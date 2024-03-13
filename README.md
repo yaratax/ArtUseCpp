@@ -17,3 +17,4 @@ Before running the program, make sure you have the following installed:
 - [OpenGL](https://www.opengl.org/) - The OpenGL graphics library.
 - [GLUT](https://www.opengl.org/resources/libraries/glut/) - The OpenGL Utility Toolkit.
 
+![[outputPic.jpeg]]
